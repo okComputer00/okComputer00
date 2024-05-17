@@ -1,4 +1,7 @@
 ### Hi there 👋 I'm Ghadeer
+![Header](./github-header-image.png)
+
+
 <!--
 **okComputer00/okComputer00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
