@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ghadeer
+###👋 
 ![Header](./github-header-image1.png)
 
 
