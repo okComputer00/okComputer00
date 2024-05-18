@@ -4,3 +4,10 @@ Imam Abdulrahman Bin Faisal University
 
 - CS211 Fundamentals Of Programming
 - CS222 Electronics
+
+<h2> 🤔 I'm intersted in </h2>
+- genaritave AI
+- IOS apps development
+- Python
+- UX/UI 
+
