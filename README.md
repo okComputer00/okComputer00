@@ -11,8 +11,8 @@ Imam Abdulrahman Bin Faisal University
 
 <h2> 🤔 I'm intersted in </h2>
 
-- genaritave AI
-- IOS apps development
 - Python
+- Mobile Application Development
 - UX/UI 
+- IOS Development
 
